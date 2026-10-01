@@ -1,5 +1,7 @@
 /**
  * The type Buddy info.
+ *
+ * @author Anna
  */
 public class BuddyInfo {
 
