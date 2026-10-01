@@ -1,7 +1,8 @@
 /**
  * The type Buddy info.
  *
- * @author Anna
+ * @author Anna Romazanova
+ * @version October 1, 2026
  */
 public class BuddyInfo {
 
